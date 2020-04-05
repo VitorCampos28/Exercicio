@@ -6,8 +6,8 @@ namespace Exercicio_de_Fixacao.Entities
 {
     class Product
     {
-        public string name { get; set; }
-        public double price { get; set; }
+        public string Name { get; set; }
+        public double Price { get; set; }
 
         public Product()
         {
@@ -16,8 +16,8 @@ namespace Exercicio_de_Fixacao.Entities
 
         public Product(string name, double price)
         {
-            name = name;
-            price = price;
+            Name = name;
+            Price = price;
         }
     }
 }

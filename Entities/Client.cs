@@ -21,5 +21,15 @@ namespace Exercicio_de_Fixacao.Entities
             this.email = email;
             this.birthDay = birthDay;
         }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append(Name);
+            sb.Append(" (" + birthDay + ")");
+            sb.Append(" - ");
+            sb.Append(email);
+            return sb.ToString();
+        }
     }
 }
