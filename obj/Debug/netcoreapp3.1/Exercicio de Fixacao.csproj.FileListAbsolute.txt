@@ -1,0 +1,13 @@
+B:\Projetos VS\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.exe
+B:\Projetos VS\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.deps.json
+B:\Projetos VS\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.runtimeconfig.json
+B:\Projetos VS\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.runtimeconfig.dev.json
+B:\Projetos VS\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.dll
+B:\Projetos VS\Exercicio de Fixacao\bin\Debug\netcoreapp3.1\Exercicio de Fixacao.pdb
+B:\Projetos VS\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.csprojAssemblyReference.cache
+B:\Projetos VS\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.csproj.CoreCompileInputs.cache
+B:\Projetos VS\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.AssemblyInfoInputs.cache
+B:\Projetos VS\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.AssemblyInfo.cs
+B:\Projetos VS\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.dll
+B:\Projetos VS\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.pdb
+B:\Projetos VS\Exercicio de Fixacao\obj\Debug\netcoreapp3.1\Exercicio de Fixacao.genruntimeconfig.cache
